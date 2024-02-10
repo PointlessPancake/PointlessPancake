@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
 
-<!--
-**PointlessPancake/PointlessPancake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ICT student specializing in Software Engineering.<br>
+I have a passion for creating innovative solutions and improving systems.
 
-Here are some ideas to get you started:
+🎓<br>
+In addition to my formal education, I'm commited to continious learning and skill enhancement.<br>
+I spend my free time exploring new technologies and programming languages.<br>
+This self-directed learning has allowed me stay ahead of my coursework in my bachelor's program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼<br>
+As a future software engineer, I'm eager to apply my knowledge and skills to real-world challenges.<br>
+I'm always looking for opportunities where I can learn, grow and make a meaningful contribution.
